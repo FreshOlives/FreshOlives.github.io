@@ -2,6 +2,8 @@
 layout: default
 ---
 
-# This is my N20 Gear Motor Case for Lego Technic
+# This is my N20 Motor Case for Technic
 
-![TechnicMotor](media/Render.png){:height="30%" width="30%"}{: .center-image }
+<p align="center">
+  <img src="media/Render.png" width="800" height="600"/>
+</p>
