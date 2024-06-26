@@ -1,3 +1,3 @@
 # FreshOlives.github.io
 
-[N20 Gear Motor for Lego Technic](TechnicMotor/main.md)
+[N20 Gear Motor for Lego Technic](TechnicMotor/main.html)
