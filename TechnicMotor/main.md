@@ -7,7 +7,7 @@ layout: default
     background-color: #f0f0f0;
   }
   .inner {
-    max-width: 75%;
+    max-width: 60%;
   }
 </style>
 
