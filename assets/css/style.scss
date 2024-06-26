@@ -4,10 +4,11 @@
 @import "{{ site.theme }}";
 
 // Add your custom styles here
-body {
+.outer {
     background-color: #757575;
 }
 
 .inner {
-    max-width: 60%;
+    background-color: #757575;
+    max-width: 50%;
 }
