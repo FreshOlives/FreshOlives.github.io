@@ -11,14 +11,12 @@ layout: default
 
 ## Description <!-- omit in toc -->
 
-This is a 3D printed case designed to fit the N20 Gear Motor and Lego Technic. The case is designed to protect the motor and provide a mounting point for Lego Technic. The case is designed to be 3D printed in PLA or PETG and assembled using M3 screws and nuts.
-
 ### Features
-- **Motor**: Designed to fit the N20 Gear Motor
-- **Technic**: Designed to fit Lego Technic
-- **Case**: Designed to protect the motor and provide a mounting point
+- Designed to fit the [N20 Gear Motor with encoder](https://www.amazon.ca/dp/B07HH9MTDT)
+- Compatible with Lego Technic parts
+- Includes d-shaft to technic axle adapter
 - **Material**: PLA or PETG
-- **Hardware**: M3 screws and nuts
+- **Hardware**: 3x M3x20mm bolt, 3x M3 nut, 2x M2.5x5mm screw
 
 ## Contents <!-- omit in toc -->
 - [Introduction](#introduction)
@@ -32,6 +30,10 @@ This is a 3D printed case designed to fit the N20 Gear Motor and Lego Technic. T
 ## Introduction
 
 ## Lego Technic Dimensions
+
+<p class="container">
+    <img src="media/TechnicDimensions.png" width="50%" height="50%"/>
+</p>
 
 ## Assembly
 

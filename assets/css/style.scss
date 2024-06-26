@@ -4,12 +4,11 @@
 @import "{{ site.theme }}";
 
 // Add your custom styles here
-// .outer {
-//     // background-color: #757575;
-// }
+#main_content_wrap {
+    background-color: #CCCCCC;
+}
 
 .inner {
-    // background-color: #757575;
     max-width: 50%;
 }
 
@@ -17,4 +16,18 @@
     display: flex; 
     align-items: center;
     justify-content: center;
+}
+
+#home_button {
+	display: block;
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	z-index: 10;
+	padding: 10px 11px 10px 10px;
+	color: #fff;
+	background: #31373b;
+	font-weight: 700;
+	box-shadow: 0 0 2px rgba(231, 229, 229, 0.5);
+	border-radius: 10px;
 }
