@@ -4,13 +4,13 @@ layout: default
 
 # Lego Technic Compatible N20 Motor Case (3D Printed) <!-- omit in toc -->
 
-<p align="center">
+<div class="container" align="center">
     <img src="media/Render.png" width="320" height="240"/>
-    <video width="320" height="240" width="320" height="240" autoplay>
+    <video width="320" height="240" autoplay>
         <source src="media/Explode.webm" type="video/webm">
         Your browser does not support the video tag.
     </video> 
-</p>
+</div>
 
 ## Description <!-- omit in toc -->
 
