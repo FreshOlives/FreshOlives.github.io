@@ -5,7 +5,7 @@ layout: default
 # Lego Technic Compatible N20 Motor Case (3D Printed) <!-- omit in toc -->
 
 <p align="center">
-  <img src="media/Render.png" width="480" height="360"/>
+  <img src="media/Render.png" width="480" height="360"/><img src="media/Explode.webm" width="480" height="360"/>
 </p>
 
 ## Description <!-- omit in toc -->
