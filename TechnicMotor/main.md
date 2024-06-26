@@ -13,7 +13,7 @@ layout: default
 ## Description
 
 <p align="center">
-  <img src="media/Render.png" width="480" height="240"/>
+  <img src="media/Render.png" width="480" height="360"/>
 </p>
 
 ### Features
