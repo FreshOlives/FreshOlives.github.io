@@ -2,16 +2,7 @@
 layout: default
 ---
 
-<style>
-  body {
-    background-color: #f0f0f0;
-  }
-  .inner {
-    max-width: 60%;
-  }
-</style>
-
-# Lego Techic Compatible N20 Motor Case (3D Printed)
+# Lego Technic Compatible N20 Motor Case (3D Printed)
 
 ## Description
 
@@ -27,7 +18,7 @@ layout: default
 - **Hardware**: M3 screws and nuts
 
 ## Contents
-- [Lego Techic Compatible N20 Motor Case (3D Printed)](#lego-techic-compatible-n20-motor-case-3d-printed)
+- [Lego Technic Compatible N20 Motor Case (3D Printed)](#lego-technic-compatible-n20-motor-case-3d-printed)
   - [Description](#description)
     - [Features](#features)
   - [Contents](#contents)
