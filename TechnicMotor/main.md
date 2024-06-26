@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<style>
+  body {
+    background-color: #333;
+  }
+</style>
+
 # Lego Techic Compatible N20 Motor Case (3D Printed)
 
 ## Description
