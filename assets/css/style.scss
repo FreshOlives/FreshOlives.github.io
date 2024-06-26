@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Add your custom styles here
+body {
+    background-color: #757575;
+}
+
+.inner {
+    max-width: 60%;
+}
