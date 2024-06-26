@@ -4,7 +4,7 @@ layout: default
 
 <style>
   body {
-    background-color: #333;
+    background-color: #f0f0f0;
   }
   .inner {
     max-width: 75%;
